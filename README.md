@@ -10,6 +10,7 @@ This kit contains:
 * **Tracking and Reporting worksheet:** track your actions and analyze your outcomes. Used both for steering within the team and for demonstrating trustworthiness outside of the team (to management).
 * **Experiment template:** guides you to the important parts for defining a successful experiment.
 * **Improvement template:** guides you to the important parts for planning a successful improvement / habit change.
+* **Retrospective plan template:** provides a skeleton for a more effective retrospective which generates experiments and improvements.
 * **Example board:** shows an effective way to organize the team's planning board so that both Product and Sustainability work get done.
 
 ## Additional Resources
