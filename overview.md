@@ -1,4 +1,4 @@
-#Quantitative Improvement Overview
+# Quantitative Improvement Overview
 
 Quantitative Improvement (QI) is a rigorous method for improving team effectiveness over time. It focuses on steady daily progress, rather than risky full-system transformations that take a long time to implement or assess.
 
